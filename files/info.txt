@@ -1,0 +1,3 @@
+file is loaded from info txt
+
+example file
